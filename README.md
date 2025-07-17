@@ -11,6 +11,22 @@ Este projeto demonstra o uso do serviço Azure AI Language para realizar tarefas
 
 ## 🧪 Testes Realizados
 ### 🔹 Texto de Conversação
+
+## 📸 Capturas de Tela
+
+### 🛠️ Etapa 1 – Criação do Recurso no Azure
+![Criação do Recurso](images/criacao_recurso.png)
+
+### 🤖 Etapa 2 – Criação do Serviço de IA de Linguagem
+![Criação IA Linguagem](images/criacao-IA-linguagem.png)
+
+### 💬 Etapa 3 – Texto de Conversação Usado no Teste
+![Prompt de Conversa](images/pronpt_conversa.png)
+
+### 🧪 Etapa 4 – Exemplo de Resposta Gerada pelo Language Studio
+![Exemplo de Resposta](images/exemplo_resposta.png)
+
+
 ```plaintext
 Resumo da Conversa
 Recapitular
@@ -27,4 +43,8 @@ O cliente, Sr. Smith, relatou um problema com um produto que comprou no site da 
 O cliente e o agente discutiram problemas com um produto, tendo o cliente expressado insatisfação com o uso do produto e a demora do representante da transportadora. O agente se desculpou pelo inconveniente e prometeu tomar medidas rigorosas, incluindo um desconto de 50% e frete grátis. O cliente confirmou não ter outras reclamações ou dúvidas.
 
 
-## 🧪  Retorno dos Testes realizado
+
+
+
+
+
