@@ -15,16 +15,16 @@ Este projeto demonstra o uso do serviço Azure AI Language para realizar tarefas
 ## 📸 Capturas de Tela
 
 ### 🛠️ Etapa 1 – Criação do Recurso no Azure
-![Criação do Recurso](images/criacao_recurso.png)
+![Criação do Recurso](images/https://github.com/BeatrizPCandido/projeto_linguagem_azure/blob/main/imagem_teste_azure/criacao_recurso.png)
 
 ### 🤖 Etapa 2 – Criação do Serviço de IA de Linguagem
-![Criação IA Linguagem](images/criacao-IA-linguagem.png)
+![Criação IA Linguagem](images/[criacao-IA-linguagem.png](https://github.com/BeatrizPCandido/projeto_linguagem_azure/blob/main/imagem_teste_azure/criacao-IA-linguagem.png))
 
 ### 💬 Etapa 3 – Texto de Conversação Usado no Teste
-![Prompt de Conversa](images/pronpt_conversa.png)
+![Prompt de Conversa](images/[pronpt_conversa.png](https://github.com/BeatrizPCandido/projeto_linguagem_azure/blob/main/imagem_teste_azure/pronpt_conversa.png))
 
 ### 🧪 Etapa 4 – Exemplo de Resposta Gerada pelo Language Studio
-![Exemplo de Resposta](images/exemplo_resposta.png)
+![Exemplo de Resposta](images/[exemplo_resposta.png](https://github.com/BeatrizPCandido/projeto_linguagem_azure/blob/main/imagem_teste_azure/resposta%20.png))
 
 
 ```plaintext
